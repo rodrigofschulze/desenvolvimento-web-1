@@ -5,8 +5,26 @@ body{
 }
 
 h1{
-    font-size: 30px;
+    font-size: 1.875rem;
     text-transform: uppercase;
+}
+
+p,
+a,
+ul,
+ol,
+mark,
+strong,
+em,
+span,
+b,
+
+i{
+    font-size:1.25rem;
+}
+
+small{
+    font-size:1.25rem;
 }
 
 p::first-letter{
